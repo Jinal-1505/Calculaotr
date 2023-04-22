@@ -1,0 +1,12 @@
+{
+  "name": "calc-readline",
+  "version": "1.0.0",
+  "description": "Calculator Using Readline",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
